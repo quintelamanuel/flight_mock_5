@@ -1,0 +1,18 @@
+{
+  "instructions": {
+    "user_id": "Introduce el identificador de usuario",
+    "search_flight": "Busca un vuelo de Madrid a Barcelona en febrero. Elige fechas marcadas como flexibles.",
+    "departure_flight_selection": "Selecciona un vuelo que SALGA de Madrid DESPUÉS de las 09:00 y NO tenga espacio extra.",
+    "return_flight_selection": "Selecciona un vuelo que LLEGUE a Barcelona ANTES de las 10:00 y OFREZCA WIFI.",
+    "flight_selection_feedback": "Por favor, responde las siguientes preguntas antes de continuar.",
+    "baggage_options": "Elige cualquier franquicia de equipaje que permita tanto maletas de mano como facturadas.",
+    "departure_baggage_options": "Elige una opción que NO INCLUYA equipaje facturado.",
+    "return_baggage_options": "Elige una opción que TE PERMITA facturar una maleta de 30kg.",
+    "baggage_selection_feedback": "Por favor, responde las siguientes preguntas sobre la selección de equipaje.",
+    "meal_options": "Elige cualquier menú que incluya dietas especiales.",
+    "flexibility_options": "Elige cualquier opción que te permita cambios sin penalización.",
+    "seat_selection": "Elige cualquier asiento de tipo business.",
+    "overall_experience_feedback": "Por favor, responde las siguientes preguntas sobre tu experiencia general.",
+    "continue": "Completado correctamente. Continúa al siguiente paso."
+  }
+}

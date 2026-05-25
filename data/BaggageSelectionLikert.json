@@ -1,0 +1,48 @@
+{
+    "questionnaireId": "baggage_selection_satisfaction",
+    "scalePointSize": "medium",
+    "titleKey": "likert.baggage.title",
+    "descriptionKey": "likert.baggage.description",
+    "questions": [
+        {
+            "questionId": "q1_information_retrieval_speed",
+            "questionTextKey": "likert.questions.informationRetrievalSpeed",
+            "lowerNumber": 1,
+            "upperNumber": 7,
+            "lowerLabelKey": "likert.labels.verySlowly",
+            "upperLabelKey": "likert.labels.veryQuickly"
+        },
+        {
+            "questionId": "q2_visual_appeal",
+            "questionTextKey": "likert.questions.visualAppeal",
+            "lowerNumber": 1,
+            "upperNumber": 7,
+            "lowerLabelKey": "likert.labels.notPleasant",
+            "upperLabelKey": "likert.labels.veryPleasant"
+        },
+        {
+            "questionId": "q3_professional_appearance",
+            "questionTextKey": "likert.questions.professionalAppearance",
+            "lowerNumber": 1,
+            "upperNumber": 7,
+            "lowerLabelKey": "likert.labels.notProfessional",
+            "upperLabelKey": "likert.labels.veryProfessional"
+        },
+        {
+            "questionId": "q4_service_quality",
+            "questionTextKey": "likert.questions.serviceQuality",
+            "lowerNumber": 1,
+            "upperNumber": 7,
+            "lowerLabelKey": "likert.labels.lowQuality",
+            "upperLabelKey": "likert.labels.highQuality"
+        },
+        {
+            "questionId": "q5_price_expectation",
+            "questionTextKey": "likert.questions.priceExpectation",
+            "lowerNumber": 1,
+            "upperNumber": 7,
+            "lowerLabelKey": "likert.labels.veryLow",
+            "upperLabelKey": "likert.labels.veryHigh"
+        }
+    ]
+}

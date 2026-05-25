@@ -1,0 +1,122 @@
+[
+    {
+        "__type": "TBaggageCategoryData",
+        "baggageId": "baggage_handBag_1",
+        "baggageCategory": "handBag",
+        "baggageTitleKey": "baggage:category.handBag",
+        "baggagePrice": "included",
+        "baggageOptions": [
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.personalItem",
+                "available": true
+            },
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.fitsUnderSeat",
+                "available": true
+            },
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.cabinBag",
+                "available": false
+            },
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.checkedBaggage",
+                "available": false
+            }
+        ],
+        "selected": false
+    },
+    {
+        "__type": "TBaggageCategoryData",
+        "baggageId": "baggage_cabinBag_2",
+        "baggageCategory": "cabinBag",
+        "baggageTitleKey": "baggage:category.cabinBag",
+        "baggagePrice": 25,
+        "baggageOptions": [
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.personalItem",
+                "available": true
+            },
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.cabinBagSize",
+                "available": true
+            },
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.priorityBoarding",
+                "available": true
+            },
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.checkedBaggage",
+                "available": false
+            }
+        ],
+        "selected": false
+    },
+    {
+        "__type": "TBaggageCategoryData",
+        "baggageId": "baggage_checkedBag_3",
+        "baggageCategory": "checkedBag",
+        "baggageTitleKey": "baggage:category.checkedBag",
+        "baggagePrice": 45,
+        "baggageOptions": [
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.personalItem",
+                "available": true
+            },
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.cabinBagSize",
+                "available": true
+            },
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.checkedBag20kg",
+                "available": true
+            },
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.extraWeightAllowance",
+                "available": false
+            }
+        ],
+        "selected": false
+    },
+    {
+        "__type": "TBaggageCategoryData",
+        "baggageId": "baggage_specialBag_4",
+        "baggageCategory": "specialBag",
+        "baggageTitleKey": "baggage:category.specialBag",
+        "baggagePrice": 60,
+        "baggageOptions": [
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.personalItem",
+                "available": true
+            },
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.cabinBagSize",
+                "available": true
+            },
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.checkedBag32kg",
+                "available": true
+            },
+            {
+                "__type": "TBaggageOptions",
+                "baggageOptionKey": "baggage:option.extraWeightAllowance",
+                "available": true
+            }
+        ],
+        "selected": false
+    }
+]

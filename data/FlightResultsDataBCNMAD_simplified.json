@@ -1,0 +1,223 @@
+{
+  "__type": "TFlightData",
+  "flightResultsRows": [
+    {
+      "__type": "TFlightRow",
+      "id": "1",
+      "flightInfo": {
+        "__type": "TFlightInfoData",
+        "flightInfoCategory": "normal",
+        "departureDate": "2025-03-10T07:30:00",
+        "departureAirport": "Barcelona–El Prat Airport",
+        "departureCode": "BCN",
+        "departureCity": "Barcelona",
+        "arrivalDate": "2025-03-10T08:45:00",
+        "arrivalAirport": "Adolfo Suárez Madrid–Barajas Airport",
+        "arrivalCode": "MAD",
+        "arrivalCity": "Madrid",
+        "duration": "1h 15m"
+      },
+      "ticketCategories": [
+        {
+          "__type": "TTicketCategoryData",
+          "ticketId": "ticket_economy_1",
+          "ticketCategory": "economy",
+          "ticketPrice": 90,
+          "ticketServices": [
+            {
+              "__type": "TTicketService",
+              "available": false,
+              "ticketServiceKey": "flight:service.businessSeat"
+            },
+            {
+              "__type": "TTicketService",
+              "available": false,
+              "ticketServiceKey": "flight:service.wifi"
+            },
+            {
+              "__type": "TTicketService",
+              "available": false,
+              "ticketServiceKey": "flight:service.priorityBoarding"
+            },
+            {
+              "__type": "TTicketService",
+              "available": false,
+              "ticketServiceKey": "flight:service.extraLegroom"
+            }
+          ],
+          "selected": false,
+          "ticketTitleKey": "flight:ticket.economy"
+        },
+        {
+          "__type": "TTicketCategoryData",
+          "ticketId": "ticket_economyPlus_1",
+          "ticketCategory": "economyPlus",
+          "ticketPrice": 136,
+          "ticketServices": [
+            {
+              "__type": "TTicketService",
+              "available": false,
+              "ticketServiceKey": "flight:service.businessSeat"
+            },
+            {
+              "__type": "TTicketService",
+              "available": false,
+              "ticketServiceKey": "flight:service.wifi"
+            },
+            {
+              "__type": "TTicketService",
+              "available": true,
+              "ticketServiceKey": "flight:service.priorityBoarding"
+            },
+            {
+              "__type": "TTicketService",
+              "available": true,
+              "ticketServiceKey": "flight:service.extraLegroom"
+            }
+          ],
+          "selected": false,
+          "ticketTitleKey": "flight:ticket.economyPlus"
+        },
+        {
+          "__type": "TTicketCategoryData",
+          "ticketId": "ticket_business_1",
+          "ticketCategory": "business",
+          "ticketPrice": 224,
+          "ticketServices": [
+            {
+              "__type": "TTicketService",
+              "available": true,
+              "ticketServiceKey": "flight:service.businessSeat"
+            },
+            {
+              "__type": "TTicketService",
+              "available": true,
+              "ticketServiceKey": "flight:service.wifi"
+            },
+            {
+              "__type": "TTicketService",
+              "available": true,
+              "ticketServiceKey": "flight:service.priorityBoarding"
+            },
+            {
+              "__type": "TTicketService",
+              "available": true,
+              "ticketServiceKey": "flight:service.extraLegroom"
+            }
+          ],
+          "selected": false,
+          "ticketTitleKey": "flight:ticket.business"
+        }
+      ]
+    },
+    {
+      "__type": "TFlightRow",
+      "id": "2",
+      "flightInfo": {
+        "__type": "TFlightInfoData",
+        "flightInfoCategory": "normal",
+        "departureDate": "2025-03-10T10:20:00",
+        "departureAirport": "Barcelona–El Prat Airport",
+        "departureCode": "BCN",
+        "departureCity": "Barcelona",
+        "arrivalDate": "2025-03-10T11:35:00",
+        "arrivalAirport": "Adolfo Suárez Madrid–Barajas Airport",
+        "arrivalCode": "MAD",
+        "arrivalCity": "Madrid",
+        "duration": "1h 15m"
+      },
+      "ticketCategories": [
+        {
+          "__type": "TTicketCategoryData",
+          "ticketId": "ticket_economy_2",
+          "ticketCategory": "economy",
+          "ticketPrice": 95,
+          "ticketServices": [
+            {
+              "__type": "TTicketService",
+              "available": false,
+              "ticketServiceKey": "flight:service.businessSeat"
+            },
+            {
+              "__type": "TTicketService",
+              "available": false,
+              "ticketServiceKey": "flight:service.wifi"
+            },
+            {
+              "__type": "TTicketService",
+              "available": false,
+              "ticketServiceKey": "flight:service.priorityBoarding"
+            },
+            {
+              "__type": "TTicketService",
+              "available": false,
+              "ticketServiceKey": "flight:service.extraLegroom"
+            }
+          ],
+          "selected": false,
+          "ticketTitleKey": "flight:ticket.economy"
+        },
+        {
+          "__type": "TTicketCategoryData",
+          "ticketId": "ticket_economyPlus_2",
+          "ticketCategory": "economyPlus",
+          "ticketPrice": 141,
+          "ticketServices": [
+            {
+              "__type": "TTicketService",
+              "available": false,
+              "ticketServiceKey": "flight:service.businessSeat"
+            },
+            {
+              "__type": "TTicketService",
+              "available": false,
+              "ticketServiceKey": "flight:service.wifi"
+            },
+            {
+              "__type": "TTicketService",
+              "available": true,
+              "ticketServiceKey": "flight:service.priorityBoarding"
+            },
+            {
+              "__type": "TTicketService",
+              "available": true,
+              "ticketServiceKey": "flight:service.extraLegroom"
+            }
+          ],
+          "selected": false,
+          "ticketTitleKey": "flight:ticket.economyPlus"
+        },
+        {
+          "__type": "TTicketCategoryData",
+          "ticketId": "ticket_business_2",
+          "ticketCategory": "business",
+          "ticketPrice": 234,
+          "ticketServices": [
+            {
+              "__type": "TTicketService",
+              "available": true,
+              "ticketServiceKey": "flight:service.businessSeat"
+            },
+            {
+              "__type": "TTicketService",
+              "available": true,
+              "ticketServiceKey": "flight:service.wifi"
+            },
+            {
+              "__type": "TTicketService",
+              "available": true,
+              "ticketServiceKey": "flight:service.priorityBoarding"
+            },
+            {
+              "__type": "TTicketService",
+              "available": true,
+              "ticketServiceKey": "flight:service.extraLegroom"
+            }
+          ],
+          "selected": false,
+          "ticketTitleKey": "flight:ticket.business"
+        }
+      ]
+    }
+  ]
+}

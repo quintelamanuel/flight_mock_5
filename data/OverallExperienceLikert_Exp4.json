@@ -1,0 +1,128 @@
+{
+    "questionnaireId": "overall_experience_satisfaction",
+    "scalePointSize": "x-small",
+    "titleKey": "likert.overall.title",
+    "descriptionKey": "likert.overall.description",
+    "referenceImages": [
+        {
+            "id": "interface1",
+            "src": "analogue_horizontal.png",
+            "captionKey": "likert.images.interface1"
+        },
+        {
+            "id": "interface2",
+            "src": "complementary_horizontal.png",
+            "captionKey": "likert.images.interface2"
+        }
+    ],
+    "questions": [
+        {
+            "questionId": "q1_information_without_highlight",
+            "questionTextKey": "likert.questions.informationWithoutHighlight",
+            "lowerNumber": 1,
+            "upperNumber": 7,
+            "lowerLabelKey": "likert.labels.stronglyDisagree",
+            "upperLabelKey": "likert.labels.stronglyAgree",
+            "scales": [
+                {
+                    "scaleId": "interface1",
+                    "scaleLabelKey": "likert.scales.interface1"
+                },
+                {
+                    "scaleId": "interface2",
+                    "scaleLabelKey": "likert.scales.interface2"
+                }
+            ]
+        },
+        {
+            "questionId": "q2_element_distraction",
+            "questionTextKey": "likert.questions.elementDistraction",
+            "lowerNumber": 1,
+            "upperNumber": 7,
+            "lowerLabelKey": "likert.labels.stronglyDisagree",
+            "upperLabelKey": "likert.labels.stronglyAgree",
+            "scales": [
+                {
+                    "scaleId": "interface1",
+                    "scaleLabelKey": "likert.scales.interface1"
+                },
+                {
+                    "scaleId": "interface2",
+                    "scaleLabelKey": "likert.scales.interface2"
+                }
+            ]
+        },
+        {
+            "questionId": "q3_visual_appeal",
+            "questionTextKey": "likert.questions.visualAppeal",
+            "lowerNumber": 1,
+            "upperNumber": 7,
+            "lowerLabelKey": "likert.labels.stronglyDisagree",
+            "upperLabelKey": "likert.labels.stronglyAgree",
+            "scales": [
+                {
+                    "scaleId": "interface1",
+                    "scaleLabelKey": "likert.scales.interface1"
+                },
+                {
+                    "scaleId": "interface2",
+                    "scaleLabelKey": "likert.scales.interface2"
+                }
+            ]
+        },
+        {
+            "questionId": "q4_professional_appearance",
+            "questionTextKey": "likert.questions.professionalAppearance",
+            "lowerNumber": 1,
+            "upperNumber": 7,
+            "lowerLabelKey": "likert.labels.stronglyDisagree",
+            "upperLabelKey": "likert.labels.stronglyAgree",
+            "scales": [
+                {
+                    "scaleId": "interface1",
+                    "scaleLabelKey": "likert.scales.interface1"
+                },
+                {
+                    "scaleId": "interface2",
+                    "scaleLabelKey": "likert.scales.interface2"
+                }
+            ]
+        },
+        {
+            "questionId": "q5_service_quality",
+            "questionTextKey": "likert.questions.serviceQualityConfidence",
+            "lowerNumber": 1,
+            "upperNumber": 7,
+            "lowerLabelKey": "likert.labels.stronglyDisagree",
+            "upperLabelKey": "likert.labels.stronglyAgree",
+            "scales": [
+                {
+                    "scaleId": "interface1",
+                    "scaleLabelKey": "likert.scales.interface1"
+                },
+                {
+                    "scaleId": "interface2",
+                    "scaleLabelKey": "likert.scales.interface2"
+                }
+            ]
+        },
+        {
+            "questionId": "q6_price_expectation",
+            "questionTextKey": "likert.questions.priceExpectation",
+            "lowerNumber": 1,
+            "upperNumber": 7,
+            "lowerLabelKey": "likert.labels.stronglyDisagree",
+            "upperLabelKey": "likert.labels.stronglyAgree",
+            "scales": [
+                {
+                    "scaleId": "interface1",
+                    "scaleLabelKey": "likert.scales.interface1"
+                },
+                {
+                    "scaleId": "interface2",
+                    "scaleLabelKey": "likert.scales.interface2"
+                }
+            ]
+        }
+    ]
+}

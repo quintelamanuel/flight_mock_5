@@ -1,0 +1,29 @@
+[
+    {
+        "__type": "TMealCategoryData",
+        "mealId": "meal_standard_1",
+        "mealCategory": "standardMeal",
+        "mealTitleKey": "meal:category.standardMeal",
+        "mealPrice": "included",
+        "mealDescriptionKey": "meal:description.standardMeal",
+        "selected": false
+    },
+    {
+        "__type": "TMealCategoryData",
+        "mealId": "meal_standard_2",
+        "mealCategory": "premiumMeal",
+        "mealTitleKey": "meal:category.premiumMeal",
+        "mealPrice": 15,
+        "mealDescriptionKey": "meal:description.premiumMeal",
+        "selected": false
+    },
+    {
+        "__type": "TMealCategoryData",
+        "mealId": "meal_standard_3",
+        "mealCategory": "specialMeal",
+        "mealTitleKey": "meal:category.specialMeal",
+        "mealPrice": 20,
+        "mealDescriptionKey": "meal:description.specialMeal",
+        "selected": false
+    }
+]

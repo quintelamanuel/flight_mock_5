@@ -1,0 +1,95 @@
+[
+    {
+        "__type": "TFlexibilityCategoryData",
+        "flexibilityId": "flexibility_nonRefundable_1",
+        "flexibilityCategory": "nonRefundable",
+        "flexibilityTitleKey": "flexibility:category.nonRefundable",
+        "flexibilityPrice": "included",
+        "flexibilityDescriptionKey": "flexibility:description.nonRefundable",
+        "flexibilityOptions": [
+            {
+                "__type": "TFlexibilityOption",
+                "flexibilityOptionKey": "flexibility:option.dateTimeChanges",
+                "available": false
+            },
+            {
+                "__type": "TFlexibilityOption",
+                "flexibilityOptionKey": "flexibility:option.nameChanges",
+                "available": false
+            },
+            {
+                "__type": "TFlexibilityOption",
+                "flexibilityOptionKey": "flexibility:option.refundAvailable",
+                "available": false
+            },
+            {
+                "__type": "TFlexibilityOption",
+                "flexibilityOptionKey": "flexibility:option.flightCreditIfCancelled",
+                "available": false
+            }
+        ],
+        "selected": false
+    },
+    {
+        "__type": "TFlexibilityCategoryData",
+        "flexibilityId": "flexibility_flexible_2",
+        "flexibilityCategory": "flexible",
+        "flexibilityTitleKey": "flexibility:category.flexible",
+        "flexibilityPrice": 35,
+        "flexibilityDescriptionKey": "flexibility:description.flexible",
+        "flexibilityOptions": [
+            {
+                "__type": "TFlexibilityOption",
+                "flexibilityOptionKey": "flexibility:option.dateTimeChangesFee",
+                "available": true
+            },
+            {
+                "__type": "TFlexibilityOption",
+                "flexibilityOptionKey": "flexibility:option.nameChanges",
+                "available": false
+            },
+            {
+                "__type": "TFlexibilityOption",
+                "flexibilityOptionKey": "flexibility:option.refundAvailable",
+                "available": false
+            },
+            {
+                "__type": "TFlexibilityOption",
+                "flexibilityOptionKey": "flexibility:option.flightCreditIfCancelled",
+                "available": true
+            }
+        ],
+        "selected": false
+    },
+    {
+        "__type": "TFlexibilityCategoryData",
+        "flexibilityId": "flexibility_fullyFlexible_3",
+        "flexibilityCategory": "fullyFlexible",
+        "flexibilityTitleKey": "flexibility:category.fullyFlexible",
+        "flexibilityPrice": 75,
+        "flexibilityDescriptionKey": "flexibility:description.fullyFlexible",
+        "flexibilityOptions": [
+            {
+                "__type": "TFlexibilityOption",
+                "flexibilityOptionKey": "flexibility:option.unlimitedDateTimeChanges",
+                "available": true
+            },
+            {
+                "__type": "TFlexibilityOption",
+                "flexibilityOptionKey": "flexibility:option.nameChangesOneAllowed",
+                "available": true
+            },
+            {
+                "__type": "TFlexibilityOption",
+                "flexibilityOptionKey": "flexibility:option.fullRefundAvailable",
+                "available": true
+            },
+            {
+                "__type": "TFlexibilityOption",
+                "flexibilityOptionKey": "flexibility:option.flightCreditIfCancelled",
+                "available": true
+            }
+        ],
+        "selected": false
+    }
+]
