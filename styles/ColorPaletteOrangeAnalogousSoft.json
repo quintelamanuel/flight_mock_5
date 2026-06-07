@@ -5,11 +5,11 @@
     "atenuatedColor": "#999999",
     "darkColor": "#333333",
     "lightColor": "#ffffff",
-    "actionMain": "#FFDBA6",
+    "actionMain": "#fcdccb",
     "actionMainComplementary": "#ACD6FF",
     "actionSecondary": "#FFE0A6",
     "actionTertiary": "#FFD4A6",
-    "backgroundMain": "#FFDBA6",
+    "backgroundMain": "#fcdccb",
     "backgroundMainComplementary": "#ACD6FF",
     "backgroundSecondary": "#FFE0A6",
     "backgroundTertiary": "#FFD4A6"
