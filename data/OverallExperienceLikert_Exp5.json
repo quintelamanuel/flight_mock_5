@@ -6,12 +6,14 @@
     "referenceImages": [
         {
             "id": "interface2",
-            "src": "orange_bag_complementary_horizontal.png",
+            "src": "orange_bg_complementary_horizontal.png",
+            "mobileSrc": "mobile_orange_bg_complementary.png",
             "captionKey": "likert.images.interface1"
         },
         {
             "id": "interface1",
             "src": "orange_bg_analogue_horizontal.png",
+            "mobileSrc": "mobile_orange_bg_analogue.png",
             "captionKey": "likert.images.interface2"
         }
     ],

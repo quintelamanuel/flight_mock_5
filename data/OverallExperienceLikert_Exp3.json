@@ -7,11 +7,13 @@
         {
             "id": "interface2",
             "src": "complementary_horizontal.png",
+            "mobileSrc": "mobile_blue_bg_complementary.png",
             "captionKey": "likert.images.interface1"
         },
         {
             "id": "interface1",
             "src": "analogue_horizontal.png",
+            "mobileSrc": "mobile_blue_bg_analogue.png",
             "captionKey": "likert.images.interface2"
         }
     ],
