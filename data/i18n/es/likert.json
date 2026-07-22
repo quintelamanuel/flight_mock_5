@@ -11,6 +11,10 @@
     "title": "Cuestionario sobre la experiencia general",
     "description": "Evalúa estos dos diseños."
   },
+  "overallFourWay": {
+    "title": "Cuestionario sobre la experiencia general",
+    "description": "Evalúa estos cuatro diseños."
+  },
   "questions": {
     "informationRetrievalSpeed": "Encontré rápidamente la información relevante.",
     "informationWithoutHighlight": "Es fácil encontrar la información aunque no esté resaltada.",
@@ -37,10 +41,14 @@
   },
   "scales": {
     "interface1": "Interfaz 1",
-    "interface2": "Interfaz 2"
+    "interface2": "Interfaz 2",
+    "interface3": "Interfaz 3",
+    "interface4": "Interfaz 4"
   },
   "images": {
     "interface1": "Interfaz 1",
-    "interface2": "Interfaz 2"
+    "interface2": "Interfaz 2",
+    "interface3": "Interfaz 3",
+    "interface4": "Interfaz 4"
   }
 }

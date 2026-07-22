@@ -21,6 +21,7 @@
     "flightFeedback": "Flight Survey",
     "baggageFeedback": "Baggage Survey",
     "overallFeedback": "Final Survey",
+    "overallFeedbackAll": "All Interfaces Survey",
     "finish": "Finish"
   },
   "loading": {

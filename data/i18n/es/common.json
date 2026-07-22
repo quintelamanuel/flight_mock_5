@@ -21,6 +21,7 @@
     "flightFeedback": "Encuesta Vuelos",
     "baggageFeedback": "Encuesta Equipaje",
     "overallFeedback": "Encuesta Final",
+    "overallFeedbackAll": "Encuesta Todas las Interfaces",
     "finish": "Fin"
   },
   "loading": {

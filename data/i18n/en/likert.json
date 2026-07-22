@@ -7,9 +7,13 @@
     "title": "Baggage Selection Questionnaire",
     "description": "Evaluate your experience after selecting the baggage."
   },
-  "overallExperience": {
+  "overall": {
     "title": "Overall Experience Questionnaire",
     "description": "Evaluate these two designs."
+  },
+  "overallFourWay": {
+    "title": "Overall Experience Questionnaire",
+    "description": "Evaluate these four designs."
   },
   "questions": {
     "informationRetrievalSpeed": "I quickly found the relevant information.",
@@ -18,6 +22,7 @@
     "visualAppeal": "The appearance of the page is pleasant and attractive to me.",
     "professionalAppearance": "The appearance of the page conveys professionalism.",
     "serviceQuality": "The appearance of the page conveys confidence in the quality of the services offered.",
+    "serviceQualityConfidence": "The appearance of the page conveys confidence in the quality of the services offered.",
     "priceExpectation": "The appearance of the page makes me expect high prices."
   },
   "labels": {
@@ -36,10 +41,14 @@
   },
   "scales": {
     "interface1": "Interface 1",
-    "interface2": "Interface 2"
+    "interface2": "Interface 2",
+    "interface3": "Interface 3",
+    "interface4": "Interface 4"
   },
   "images": {
     "interface1": "Interface 1",
-    "interface2": "Interface 2"
+    "interface2": "Interface 2",
+    "interface3": "Interface 3",
+    "interface4": "Interface 4"
   }
 }

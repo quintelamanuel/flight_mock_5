@@ -10,6 +10,7 @@
         "return_baggage_options": "Choose a baggage option that allows your to check a 30kg bag.",
         "baggage_selection_feedback": "Please answer the following questions about the baggage selection.",
         "overall_experience_feedback": "Please answer the following questions about your overall experience.",
+        "overall_experience_feedback_all_interfaces": "Please answer the following questions while comparing all four interfaces.",
         "continue": "Completed successfully. Continue to the next step."
     },
     "perPagePalettes": {
@@ -22,7 +23,8 @@
             "departure_baggage_options": "blueComplementary",
             "return_baggage_options": "blueComplementary",
             "baggage_selection_feedback": "blueComplementary",
-            "overall_experience_feedback": "blueComplementary"
+            "overall_experience_feedback": "blueComplementary",
+            "overall_experience_feedback_all_interfaces": "blueComplementary"
         }
     },
     "experimentMode": true,
